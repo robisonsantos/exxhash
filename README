@@ -1,0 +1,3 @@
+======================================================
+This is an attempt to port xxhash to erlang using pure
+erlang code.
